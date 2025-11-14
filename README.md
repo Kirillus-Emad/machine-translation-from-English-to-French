@@ -1,0 +1,5 @@
+- Need Python version 3.12.5
+- install all libraries that are in eng_fra_req.txt in separate environment to avoid conflicts
+- run App.py to able to use the translator app
+- training.py contain prepare the data and model building
+- utils.py conntain all needed models that are saved and uploaded on this repo and functions to run the translator on app.py
